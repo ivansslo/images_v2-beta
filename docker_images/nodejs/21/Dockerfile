@@ -8,4 +8,4 @@ RUN         npm install npm@latest -g
 
 WORKDIR /app/data
 
-CMD ["eval", $START]
+CMD ["sh", "-c", $START]

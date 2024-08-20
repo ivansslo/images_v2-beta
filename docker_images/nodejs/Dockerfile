@@ -2,4 +2,4 @@ FROM node:lts
 
 WORKDIR /app/data
 
-CMD ["sh", "-c", "$START"]
+CMD ["eval", "$START"]

@@ -32,8 +32,8 @@ jobs:
           password: ${{ secrets.REGISTRY_TOKEN }}
       - uses: docker/build-push-action@v4
         with:
-          context: ./nodejs
-          file: ./nodejs/${{ matrix.tag }}/Dockerfile
+          context: ./docker_images/nodejs
+          file: ./docker_images/nodejs/${{ matrix.tag }}/Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |

@@ -1,6 +1,6 @@
 [
-  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/main/spigotmc/spigotmc.json",
-  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/main/papermc/papermc.json",
-  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/main/python/python.json",
-  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/main/nodejs/nodejs.json"
+  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/refs/heads/main/spigotmc/spigotmc.json",
+  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/refs/heads/main/papermc/papermc.json",
+  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/refs/heads/main/python/python.json",
+  "https://raw.githubusercontent.com/ivansslo/images_v2-beta/refs/heads/main/nodejs/nodejs.json"
 ]
